@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react, angular, vue**
 
-- ⚡ Fun fact **Love code until can't hate it.**
+- ⚡ Fun fact **Want to be an Entertainer, but destiny says no.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
