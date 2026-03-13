@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan Gobiel</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.gobiel.online/](https://www.gobiel.online/)
+- 👨‍💻 All of my projects are available at [https://gobiel.vercel.app/](https://gobiel.vercel.app/)
 
 - 💬 Ask me about **react, angular, vue**
 
